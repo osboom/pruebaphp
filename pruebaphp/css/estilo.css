@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.textderecha{
+	font-weight: bold;
+	text-align: right;
+	padding-right: 10px;
+}
+
